@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+:root {
+  --clr-primary: #282c34;
+  --clr-secondary: #e8f321;
+  --clr-primary-font: #222;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: var(--clr-primary-font);
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+  font-size: 2.2em;
+  margin-left: 1em;
+}
+
+.app {
+    min-height: 100%;
+  }
+  
+.container {
+  margin-top: 4em;
+  padding: 4em;
+  min-height: 100vh;
+}
+
+.useHistory-value {
+  margin: 3em 0 0 3em;
+  font-weight: bold;
+}
+
+

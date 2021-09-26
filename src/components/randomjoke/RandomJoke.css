@@ -1,0 +1,11 @@
+.randomjoke {
+    text-align: center;
+    padding: 1em;
+}
+.randomjoke h2 {
+    margin-bottom: 1em;
+}
+
+.randomjoke h2 span {
+    color: var(--clr-secondary);
+}
